@@ -1,5 +1,13 @@
 # stylelint-rules
 
+## _For use in repositories that have stylint and stylelint-order installed._
+
+### What to do
+
+1. Extract the contents of styling.zip into src > assets > styling.
+
+<hr/>
+
 > Many of the rules that are enforced are from [AORetail](https://github.com/AORetail/css).
 
 ## Formatting
