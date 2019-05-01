@@ -4,7 +4,7 @@
 
 ### What to do
 
-1. Extract the contents of styling.zip into src > assets > styling.
+1. Extract the contents of styling.zip into src > assets.
 
 <hr/>
 
